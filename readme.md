@@ -30,7 +30,7 @@ Este proyecto comenzó como un **ejercicio académico** para simular el movimien
 - **ESC** → Salir del juego.
 
 ## Capturas 📸
-src\main\resources\org\example\pacman\demo.mp4
+(src\main\resources\org\example\pacman\demo.mp4)
 
 ## Créditos 🙌
 Desarrollado por **[Tu Nombre]** como parte de un ejercicio de simulación de partículas, evolucionando a un juego completo de Pac-Man en JavaFX.
