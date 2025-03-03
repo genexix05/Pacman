@@ -36,7 +36,7 @@ Este proyecto comenzó como un **ejercicio académico** para simular el movimien
 Desarrollado por **[Tu Nombre]** como parte de un ejercicio de simulación de partículas, evolucionando a un juego completo de Pac-Man en JavaFX.
 
 ## Contacto 📩
-Si tienes preguntas o sugerencias, contáctame en [Tu Email] o a través de [Tu LinkedIn].
+Si tienes preguntas o sugerencias, contáctame en aaleexmaartiineezz@gmail.com o a través de [\[LinkedIn\]](https://www.linkedin.com/in/alejandro-martinez-navarro/).
 
 ---
 
