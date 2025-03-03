@@ -33,7 +33,7 @@ Este proyecto comenzó como un **ejercicio académico** para simular el movimien
 ([src\main\resources\org\example\pacman\demo.mp4](https://youtu.be/VJ6h-A1wXxc))
 
 ## Créditos 🙌
-Desarrollado por **[Tu Nombre]** como parte de un ejercicio de simulación de partículas, evolucionando a un juego completo de Pac-Man en JavaFX.
+Desarrollado por **[Alex Martinez]** como parte de un ejercicio de simulación de partículas, evolucionando a un juego completo de Pac-Man en JavaFX.
 
 ## Contacto 📩
 Si tienes preguntas o sugerencias, contáctame en aaleexmaartiineezz@gmail.com o a través de [\[LinkedIn\]](https://www.linkedin.com/in/alejandro-martinez-navarro/).
